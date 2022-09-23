@@ -1,0 +1,26 @@
+Manager du 12/09/2022 au 23/09/2022 --> Dany.
+
+
+	J'ai reparti les tâches de cette façon:
+
+        	Chrinovic: - Mise en place de la plateforme de dépot de code (github)
+			   - Mise en place de platefrome de développement.
+
+
+		Ugo: - Analyse de la base de données.
+
+
+		Jonathan: - Analyse de la base de données.
+
+	
+		Dany: - Répartition des tâches.
+			- Création du diagramme de Gantt afin de bien s'organiser.
+			- Création de personas susceptible d'utiliser le site.
+
+	Pour l'instant tout s'est bien passé, les tâches avancent comme il faut et nous n'avons pas rencontré de problèmes majeures. Nous sommes à jour.
+Par rapport à notre diagramme de Gantt. Le prochain manager est Chrinovic. Nous avons pour objectif de commencer les scripts SQL et l'analyse des droits juridiques. Nous avons eu l'arrivée de Lilia dans le groupe en date du 22/09, elle participera donc aux tâches pour à partir de la prochaine période.
+
+
+	Legers petits problèmes reconctrés --> - La taille des fichiers ainsi que le format.
+
+	

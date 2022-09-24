@@ -1,0 +1,6 @@
+Rapport Individuel Ugo:
+
+		
+	Ce que j'ai fait:
+		
+		- Analyser la base de données avec Jonathan: Nous avons téléchargé et dezipé les données afin de pouvoir mener à bien notre analyse. À partir de l'analyse de Jonathan, je me suis fait une petite idée sur les tables qu'il pourrait y avoir et cela m'a permis de commencer l'élaboration du schéma SQL.

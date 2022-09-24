@@ -1,1 +1,1 @@
-Ceci est un répertoire pour pour les rendus individuels d'Ugo
+Ceci est un répertoire pour les rendus individuels d'Ugo

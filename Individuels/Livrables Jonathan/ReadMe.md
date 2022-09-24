@@ -1,1 +1,1 @@
-Ceci est un répertoire pour pour les rendus individuels de Jonathan
+Ceci est un répertoire pour les rendus individuels de Jonathan

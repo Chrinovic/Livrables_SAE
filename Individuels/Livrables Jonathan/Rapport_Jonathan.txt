@@ -1,0 +1,6 @@
+Rapport Individuel Jonathan:
+
+
+	Ce que j'ai fait:
+
+		- Analyser la base de données avec Ugo: Nous avons téléchargé et dezipé les données afin de pouvoir mener à bien notre analyse. J'ai particulièrement réfléchi sur comment insérer les données dans la base et sur le nombre de tables qu'il pourrait y avoir.

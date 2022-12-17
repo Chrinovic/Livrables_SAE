@@ -10,10 +10,10 @@ DROP TABLE if EXISTS title_ratings;
 CREATE TABLE name_basics(
     nconst text NOT NULL,
     primaryName text ,
-    birthYear text,
-    deathYear text,
-    primaryProfession text[],
-    knownForTitles text[]
+    birthYear int,
+    deathYear int,
+    primaryProfession text,
+    knownForTitles text
 );
 
 CREATE TABLE title_akas(
@@ -22,8 +22,8 @@ CREATE TABLE title_akas(
     title text, 
     region text, 
     language text, 
-    types text[], 
-    attributes text[],
+    types text, 
+    attributes text,
     isOriginalTitle text 
 );
 
@@ -33,16 +33,16 @@ CREATE TABLE title_basics(
     primaryTitle text,
     originalTitle text,
     isAdult boolean ,
-    startYear text,
-    endYear text,
-    runtimeMinutes text,
+    startYear int,
+    endYear int,
+    runtimeMinutes int,
     genres text 
 );
 
 CREATE TABLE title_crew(
     tconst text NOT NULL,
-    directors text[],
-    writers text[]
+    directors text,
+    writers text
 
 );
 
